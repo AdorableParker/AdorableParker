@@ -1,9 +1,10 @@
 <!-- <img width="910" src="https://user-images.githubusercontent.com/35246761/171882440-3528e0a3-95a3-4569-8ef0-99cf8711b0c2.jpg"> -->
-<img width="900" src="imgs/hard.png">
+<img width="1013" src="imgs/head.png">
 
 # 24 years old, is a lazy guy
 <img align="right" src="imgs/petting_fish.png" />
-Come to GitHub from time to time to dig a hole without landfilled it  
+Come to GitHub from time to time to dig a hole without landfilled it
+
 [简体中文](./README.md) | English
 
 ## Environment
@@ -54,15 +55,6 @@ Come to GitHub from time to time to dig a hole without landfilled it
 
 ## Statistics
 When can I become a big man
-<a href="https://github.com/AdorableParker">
-<table>
-  <tr>
-    <td>
-      <img align="center" style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=AdorableParker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&locale=en" />
-    </td>
-    <td>
-      <img align="center" style="width: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdorableParker&layout=compact&hide_border=true&theme=dracula&locale=en" />
-    </td>
-  </tr>
-</table>
-</a>
+
+<img align="left" style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=AdorableParker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&locale=en" />
+<img align="right" style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdorableParker&layout=compact&hide_border=true&theme=dracula&locale=en" />

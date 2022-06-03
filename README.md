@@ -1,5 +1,5 @@
 <!-- <img width="910" src="https://user-images.githubusercontent.com/35246761/171882440-3528e0a3-95a3-4569-8ef0-99cf8711b0c2.jpg"> -->
-<img width="900" src="imgs/head.png">
+<img width="1013" src="imgs/head.png">
 
 # 24岁，是懒狗
 <img align="right" src="imgs/petting_fish.png" />

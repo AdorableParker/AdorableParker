@@ -1,6 +1,6 @@
 <!-- <img width="910" src="https://user-images.githubusercontent.com/35246761/171882440-3528e0a3-95a3-4569-8ef0-99cf8711b0c2.jpg"> -->
 <a href="https://github.com/AdorableParker">
-<img width="900" src="https://user-images.githubusercontent.com/35246761/171883404-60fc4bd1-fdd3-4d60-8e03-b236d3f0b7d8.png">
+<img width="900" src="imgs/hard.png">
 <table>
   <tr>
     <td>
@@ -12,3 +12,9 @@
   </tr>
 </table>
 </a>
+
+---
+
+<img align="right" src="imgs/petting_fish.png" />
+<!-- 简体中文 | [English](./README.en.md) -->
+24岁，是懒狗。

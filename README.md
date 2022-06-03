@@ -1,4 +1,4 @@
-[![](back.png)](https://github.com/AdorableParker)
+[![](back.webp)](https://github.com/AdorableParker)
 
 <a href="https://github.com/AdorableParker" />
 <table>

@@ -1,8 +1,13 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.webp "Header")](https://some-url.dev/)
-<a href="https://github.com/AdorableParker" />
+<!-- <img width="910" src="https://user-images.githubusercontent.com/35246761/171882440-3528e0a3-95a3-4569-8ef0-99cf8711b0c2.jpg"> -->
+<a href="https://github.com/AdorableParker">
 <table>
+    <tr>
+          <td colspan="2" >
+            <img width="906" src="https://user-images.githubusercontent.com/35246761/171883404-60fc4bd1-fdd3-4d60-8e03-b236d3f0b7d8.png">
+            </td>
+  </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdorableParker&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
     </td>
     <td>
@@ -10,3 +15,4 @@
     </td>
   </tr>
 </table>
+</a>

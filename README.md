@@ -1,9 +1,10 @@
 <!-- <img width="910" src="https://user-images.githubusercontent.com/35246761/171882440-3528e0a3-95a3-4569-8ef0-99cf8711b0c2.jpg"> -->
-<img width="900" src="imgs/hard.png">
+<img width="900" src="imgs/head.png">
 
 # 24岁，是懒狗
 <img align="right" src="imgs/petting_fish.png" />
-时不时来 GitHub 挖坑不埋  
+时不时来 GitHub 挖坑不埋
+
 简体中文 | [English](./README.en.md)
 
 ## 环境

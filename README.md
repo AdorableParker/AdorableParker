@@ -55,5 +55,5 @@
 ## Statistics
 什么时候我才能变成大佬呢
 
-<img align="left" style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=AdorableParker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&locale=en" />
-<img align="right" style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdorableParker&layout=compact&hide_border=true&theme=dracula&locale=en" />
+<img align="left" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=AdorableParker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&locale=cn" />
+<img align="right" style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdorableParker&layout=compact&hide_border=true&theme=dracula&locale=cn" />

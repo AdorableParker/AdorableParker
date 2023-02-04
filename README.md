@@ -37,7 +37,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 ![C51](https://img.shields.io/badge/-C51-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://freecodecamp.org/chinese/certification/fcc0456c8af-8cf6-40de-9616-046e72f3aaef/javascript-algorithms-and-data-structures)
+<a href="https://freecodecamp.org/chinese/certification/fcc0456c8af-8cf6-40de-9616-046e72f3aaef/javascript-algorithms-and-data-structures"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></a>
 ### 能改
 <img align="right" src="imgs/I_suck.png" />
 

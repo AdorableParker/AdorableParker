@@ -37,13 +37,12 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 ![C51](https://img.shields.io/badge/-C51-A8B9CC?style=flat-square&logo=C&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ### 能改
 <img align="right" src="imgs/I_suck.png" />
 
 ![Java](https://img.shields.io/badge/-Java-0a325f?style=flat-square&logo=Java&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Curl](https://img.shields.io/badge/-Curl-073551?style=flat-square&logo=curl&logoColor=white)  
 ![HTML 5](https://img.shields.io/badge/-HTML_5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS_3-1572B6?style=flat-square&logo=CSS3&logoColor=white)

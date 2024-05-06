@@ -1,13 +1,16 @@
 <!-- <img width="910" src="https://user-images.githubusercontent.com/35246761/171882440-3528e0a3-95a3-4569-8ef0-99cf8711b0c2.jpg"> -->
+
 <img width="1013" src="imgs/head.png">
 
-# 24岁，是懒狗
+# 25岁，是懒狗
+
 <img align="right" src="imgs/petting_fish.png" />
 时不时来 GitHub 挖坑不埋
 
 简体中文 | [English](./README.en.md)
 
 ## 环境
+
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
@@ -17,6 +20,7 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 
 ## 软件
+
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3ddc84?style=flat-square&logo=AndroidStudio&logoColor=white) 
@@ -32,13 +36,17 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 ## 语言
+
 ### 能写
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 ![C51](https://img.shields.io/badge/-C51-A8B9CC?style=flat-square&logo=C&logoColor=white)
 <a href="https://freecodecamp.org/chinese/certification/fcc0456c8af-8cf6-40de-9616-046e72f3aaef/javascript-algorithms-and-data-structures"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></a>
+
 ### 能改
+
 <img align="right" src="imgs/I_suck.png" />
 
 ![Java](https://img.shields.io/badge/-Java-0a325f?style=flat-square&logo=Java&logoColor=white)
@@ -46,12 +54,15 @@
 ![Curl](https://img.shields.io/badge/-Curl-073551?style=flat-square&logo=curl&logoColor=white)  
 ![HTML 5](https://img.shields.io/badge/-HTML_5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/-CSS_3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
 ### 能读
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 
 ## Statistics
+
 什么时候我才能变成大佬呢
 
 <img align="left" style="width: 45%;height:200px;" src="https://github-readme-stats.vercel.app/api?username=AdorableParker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&locale=cn" />

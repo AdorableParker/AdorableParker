@@ -15,7 +15,7 @@
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white)  
 
-## 写过相关项目
+## 写过的相关项目设计技术栈
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
@@ -46,20 +46,13 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 修改过相关代码
-
 <img align="right" src="imgs/I_suck.png" />
-
-![Java](https://img.shields.io/badge/-Java-0a325f?style=flat-square&logo=Java&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
-![Curl](https://img.shields.io/badge/-Curl-073551?style=flat-square&logo=curl&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=CSharp&logoColor=white)
 
 ## 其他
 
 * 熟悉 `VMware ESXi`、`OpenStack`
 * 熟悉 `Linux`、`Windows Server` 运维
+* 拥有 `HCIP 云计算方向` 证书 ~~马上就过期~~
 
 ## Statistics
 

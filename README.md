@@ -7,7 +7,7 @@
 <img align="right" src="imgs/petting_fish.png" />
 时不时来 GitHub 挖坑不埋
 
-简体中文 | [English](./README.en.md)
+简体中文
 
 ## 使用过的开发环境
 
